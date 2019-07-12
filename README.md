@@ -4,11 +4,11 @@ Clean example implementations of data structures and algorithms written in diffe
 [![Gitter chat](https://badges.gitter.im/VAR-solutions/Algorithms.png)](https://gitter.im/VAR-solutions/Algorithms "Gitter chat")
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 [![Issues](http://img.shields.io/github/issues/VAR-solutions/Algorithms.svg)](https://github.com/VAR-solutions/Algorithms/issues)
-## List of implementations
+#### List of implementations
 
 [Algorithms list(not updated)](#)
 
-## Contribution
+## Contribution!
  * Contributions are always welcome. Language doesn't matter. Just make sure you're implementing an algorithm.
  * PRs are welcome. To begin developing, follow the structure:
 
@@ -17,12 +17,12 @@ Clean example implementations of data structures and algorithms written in diffe
    e.g
    > Sorting/bubble_sort/python/bubble_sort.py
 
- * If there is an implementation of the same algorithm in your language, add your username in front of the file name.
+ * If there is an implementation of the same algorithm in your language, do not give a PR for that.
  * Please include a description for the algorithm that you are implementing. It doesn't matter if it's copied from somewhere as long as it helps people that are learning new algorithm.
  * Graphical examples would be very helpful too.
  * Don't forget to include tests.
  * Don't remove previous implementations of algorithms. Just add a new file with your own implementation.
- * Beautify and cleanup your code for easier reading
+ * Beautify and clean up your code for easier reading
 
 ## Resources
 
@@ -35,9 +35,10 @@ Clean example implementations of data structures and algorithms written in diffe
    * [Data science - Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)
    * [Fundamentals Of Algorithms- Geeks For Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/)
    * [Visual Algorithm - visualising data structures and algorithms through animation](https://visualgo.net/en)
+   * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 * **Online classes (Free)**
   * Coursera 
-      * [Introduction to algorithms Part 1](https://www.coursera.org/learn/introduction-to-algorithms)
+      * [Introduction to algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
       * [Algorithms specialization 4 courses](https://www.coursera.org/specializations/algorithms)
    * Khan Academy 
      * [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
@@ -71,3 +72,9 @@ Clean example implementations of data structures and algorithms written in diffe
     * [CodeWars](https://codewars.com/)
     * [Coderbyte](https://www.coderbyte.com/)
     * [HireVue](https://www.hirevue.com/)
+    * [FreeCodeCamp](https://www.freecodecamp.org/)
+    
+# Project Maintainers.
+* [Vishal Gaur](https://github.com/i-vishi):tada:<br>
+* [Ravi Varshney](https://github.com/ravivarshney01):tada:<br>
+* [Ananya Tewari](https://github.com/antew7):tada:<br>
